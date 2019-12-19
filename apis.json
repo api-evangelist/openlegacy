@@ -1,0 +1,73 @@
+{
+    "name": "OpenLegacy",
+    "description": "API Integration and API Management software to create APIs to leverage core (legacy) systems & quickly deliver innovative digital transformation projects using a microservices approach.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11781-openlegacy.jpg",
+    "tags": [
+        "deployment",
+        "gateway",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/openlegacy\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpenLegacy",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11781-openlegacy.jpg",
+            "humanURL": "http:\/\/openlegacy.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openlegacy-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openlegacy-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/openlegacy.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/openlegacy.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/openlegacy"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.openlegacy.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "jennifer.t@openlegacy.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@openlegacy.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/openlegacy"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/openlegacy"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/openlegacy.com\/"
+        }
+    ]
+}
